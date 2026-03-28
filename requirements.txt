@@ -1,0 +1,14 @@
+torch
+fastapi
+pydub
+tempfile
+uvicorn
+numpy
+pydantic
+pandas
+os
+requests
+threading
+logging
+queue
+joblib
